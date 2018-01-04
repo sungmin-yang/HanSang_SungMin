@@ -1,6 +1,6 @@
 ## Client
 
-Android : JAVA + C++
-Windows : C#(.net), C++
-macOs, IOS   : Object-C, swift
-Linux : C++, Python, Java
+Android : JAVA + C++ <br>
+Windows : C#(.net), C++ <br>
+macOs, IOS   : Object-C, swift <br>
+Linux : C++, Python, Java <br>
