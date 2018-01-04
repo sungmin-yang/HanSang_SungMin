@@ -10,6 +10,6 @@ Linux : C++, Python, Java <br>
 1. Voice2Voice <br>
 
 #### Future works
-- 2. Voice2txt <br>
-- 3. txt2Voice <br>
-- 4. txt2txt <br>
+ 2. Voice2txt <br>
+ 3. txt2Voice <br>
+ 4. txt2txt <br>
