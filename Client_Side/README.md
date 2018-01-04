@@ -7,12 +7,13 @@ Linux : C++, Python, Java <br>
 
 
 ### Current Goal : 
+'''
 1. Voice2Voice <br>
-- What do we need : Voice to Signal <- use OPUS codec (http://opus-codec.org/) <br>
-- Send signal to other client. (No Server required. just 1:1 voice call)
--- Connecting IP-address/Socket/Port/ <- NAT/Firewall problem.
--- Else
-
+**What do we need : Voice to Signal <- use OPUS codec (http://opus-codec.org/) <br>
+**Send signal to other client. (No Server required. just 1:1 voice call) <br>
+ Connecting IP-address/Socket/Port/ <- NAT/Firewall problem.
+**Else
+'''
 
 
 #### Future works
