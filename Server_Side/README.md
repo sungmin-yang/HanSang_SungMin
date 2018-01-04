@@ -14,17 +14,17 @@
 - else
 
 ### Possible libraries
-  #### *libSRTP : RFC3711(Secure Real Time Transport Protocol) <- RTP+security+Compression <- Cisco
+  ####    libSRTP : RFC3711(Secure Real Time Transport Protocol) <- RTP+security+Compression <- Cisco
     - used for VoIP, Audio and Video streaming.
     - https://github.com/cisco/libsrtp
     - Licencse : publish copyright, BSD-based License (Cisco Systems)
-  #### *Speex software : audio compression format
+  ####    Speex software : audio compression format
     - www.speex.org
     - Licencse : Revised BSD License
-  #### *GSM Codec 06.10 software, Speech Compression, www.quut.com/gsm/
-  #### *iLBC Codec software, Speech codec for VoIP, www.webrtc.org/ilbc-freeware
-  #### *WebRTC software, Real-Time Communications(RTC), Javascript API, www.webrtc.org
-  #### *Opus-codec software, codec, www.opus-codec.org
+  ####    GSM Codec 06.10 software, Speech Compression, www.quut.com/gsm/
+  ####    iLBC Codec software, Speech codec for VoIP, www.webrtc.org/ilbc-freeware
+  ####    WebRTC software, Real-Time Communications(RTC), Javascript API, www.webrtc.org
+  ####    Opus-codec software, codec, www.opus-codec.org
   
 ### Reference
 References are ordred by priority.
